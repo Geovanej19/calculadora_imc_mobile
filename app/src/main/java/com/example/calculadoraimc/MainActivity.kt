@@ -42,7 +42,7 @@ class MainActivity : ComponentActivity() {
 
 fun IMCScreen(modifier: Modifier = Modifier) {
     Column(
-        modifier = Modifier.fillMaxSize()
+        modifier = modifier.fillMaxSize()
     ) {
         Box(
             modifier = Modifier.fillMaxSize()
