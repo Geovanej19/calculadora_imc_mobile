@@ -8,4 +8,6 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="cor_app">#FF4CA6D5</color>
+    <color name="cor_app2">#FF42A81E</color>
+    <color name="cor_app3">#FFF2891F</color>
 </resources>
